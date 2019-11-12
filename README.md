@@ -1,7 +1,8 @@
 addon-checkpoint-resolver
 ==============================================================================
 
-[Short description of the addon.]
+Adds rules for better resolving controls including pod like structures for models/adapters
+Custom alias for components / directories
 
 
 Compatibility
